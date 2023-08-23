@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ang-blog-51fb5": {
+      "hosting": {
+        "version-2": [
+          "ang-blog-51fb5"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ang-blog-51fb5"
+  }
+}
